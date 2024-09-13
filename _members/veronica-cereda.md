@@ -1,5 +1,5 @@
 ---
-name: Amandeep Sharma
+name: Veronica Cereda
 image: images/photo.jpg
 role: Postdoctoral Researcher
 group: 
