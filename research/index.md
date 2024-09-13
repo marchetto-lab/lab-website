@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Here are some of the papers we have published over the years!
+Here are some of the papers published over the years!
 
 {% include section.html %}
 
