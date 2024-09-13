@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Sarah Fernandes
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: phd student
+role: phd
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: sfernandes@salk.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Sarah Fernandes is a PhD student co-mentored by Drs. Carol Marchetto and Rusty Gage.
