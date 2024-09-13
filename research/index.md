@@ -13,10 +13,6 @@ Here are some of the papers we have published over the years!
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
