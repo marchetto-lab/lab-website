@@ -1,5 +1,2227 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39156632
+  title: Modeling Alzheimer's disease using human cell derived brain organoids and
+    3D models.
+  authors:
+  - Sarah Fernandes
+  - Jasmin Revanna
+  - Joshua Pratt
+  - Nicholas Hayes
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Frontiers in neuroscience
+  date: '2024-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39156632
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38954533
+  title: Exploring mood disorders and treatment options using human stem cells.
+  authors:
+  - Autumn Hudock
+  - Zaira Paulina Leal
+  - Amandeep Sharma
+  - Arianna Mei
+  - Renata Santos
+  - Maria Carolina Marchetto
+  publisher: Genetics and molecular biology
+  date: '2024-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38954533
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38704507
+  title: Monozygotic twins discordant for schizophrenia differ in maturation and synaptic
+    transmission.
+  authors:
+  - Shani Stern
+  - Lei Zhang
+  - Meiyan Wang
+  - Rebecca Wright
+  - Idan Rosh
+  - Yara Hussein
+  - Tchelet Stern
+  - Ashwani Choudhary
+  - Utkarsh Tripathi
+  - Patrick Reed
+  - Hagit Sadis
+  - Ritu Nayak
+  - Aviram Shemen
+  - Karishma Agarwal
+  - Diogo Cordeiro
+  - David Peles
+  - Yuqing Hang
+  - Ana P D Mendes
+  - Tithi D Baul
+  - Julien G Roth
+  - Shashank Coorapati
+  - Marco P Boks
+  - W Richard McCombie
+  - Hilleke Hulshoff Pol
+  - Kristen J Brennand
+  - "J\xE1nos M R\xE9thelyi"
+  - "Ren\xE9 S Kahn"
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Molecular psychiatry
+  date: '2024-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38704507
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38039131
+  title: NGLY1 mutations cause protein aggregation in human neurons.
+  authors:
+  - Andreea Manole
+  - Thomas Wong
+  - Amanda Rhee
+  - Sammy Novak
+  - Shao-Ming Chin
+  - Katya Tsimring
+  - Andres Paucar
+  - April Williams
+  - Traci Fang Newmeyer
+  - Simon T Schafer
+  - Idan Rosh
+  - Susmita Kaushik
+  - Rene Hoffman
+  - Songjie Chen
+  - Guangwen Wang
+  - Michael Snyder
+  - Ana Maria Cuervo
+  - Leo Andrade
+  - Uri Manor
+  - Kevin Lee
+  - Jeffrey R Jones
+  - Shani Stern
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Cell reports
+  date: '2023-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38039131
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37961249
+  title: Network size affects the complexity of activity in human iPSC-derived neuronal
+    populations.
+  authors:
+  - Yavuz Selim Uzun
+  - Renata Santos
+  - Maria C Marchetto
+  - Krishnan Padmanabhan
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37961249
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36991131
+  title: 'Focal adhesion is associated with lithium response in bipolar disorder:
+    evidence from a network-based multi-omics analysis.'
+  authors:
+  - Vipavee Niemsiri
+  - Sara Brin Rosenthal
+  - Caroline M Nievergelt
+  - Adam X Maihofer
+  - Maria C Marchetto
+  - Renata Santos
+  - Tatyana Shekhtman
+  - Ney Alliey-Rodriguez
+  - Amit Anand
+  - Yokesh Balaraman
+  - Wade H Berrettini
+  - Holli Bertram
+  - Katherine E Burdick
+  - Joseph R Calabrese
+  - Cynthia V Calkin
+  - Carla Conroy
+  - William H Coryell
+  - Anna DeModena
+  - Lisa T Eyler
+  - Scott Feeder
+  - Carrie Fisher
+  - Nicole Frazier
+  - Mark A Frye
+  - Keming Gao
+  - Julie Garnham
+  - Elliot S Gershon
+  - Fernando S Goes
+  - Toyomi Goto
+  - Gloria J Harrington
+  - Petter Jakobsen
+  - Masoud Kamali
+  - Marisa Kelly
+  - Susan G Leckband
+  - Falk W Lohoff
+  - Michael J McCarthy
+  - Melvin G McInnis
+  - David Craig
+  - Caitlin E Millett
+  - Francis Mondimore
+  - Gunnar Morken
+  - John I Nurnberger
+  - Claire O' Donovan
+  - "Ketil J \xD8edegaard"
+  - Kelly Ryan
+  - Martha Schinagle
+  - Paul D Shilling
+  - Claire Slaney
+  - Emma K Stapp
+  - Andrea Stautland
+  - Bruce Tarwater
+  - Peter P Zandi
+  - Martin Alda
+  - Kathleen M Fisch
+  - Fred H Gage
+  - John R Kelsoe
+  publisher: Molecular psychiatry
+  date: '2023-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36991131
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36258029
+  title: Druggable transcriptomic pathways revealed in Parkinson's patient-derived
+    midbrain neurons.
+  authors:
+  - Mark van den Hurk
+  - Shong Lau
+  - Maria C Marchetto
+  - Jerome Mertens
+  - Shani Stern
+  - Olga Corti
+  - Alexis Brice
+  - Beate Winner
+  - "J\xFCrgen Winkler"
+  - Fred H Gage
+  - Cedric Bardy
+  publisher: NPJ Parkinson's disease
+  date: '2022-10-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36258029
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36228612
+  title: Human-specific regulation of neural maturation identified by cross-primate
+    transcriptomics.
+  authors:
+  - Sara B Linker
+  - "I\xF1igo Narvaiza"
+  - Jonathan Y Hsu
+  - Meiyan Wang
+  - Fan Qiu
+  - Ana P D Mendes
+  - Ruth Oefner
+  - Kalyani Kottilil
+  - Amandeep Sharma
+  - Lynne Randolph-Moore
+  - Eunice Mejia
+  - Renata Santos
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: 'Current biology : CB'
+  date: '2022-10-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36228612
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35948563
+  title: Reduced synaptic activity and dysregulated extracellular matrix pathways
+    in midbrain neurons from Parkinson's disease patients.
+  authors:
+  - Shani Stern
+  - Shong Lau
+  - Andreea Manole
+  - Idan Rosh
+  - Menachem Mendel Percia
+  - Ran Ben Ezer
+  - Maxim N Shokhirev
+  - Fan Qiu
+  - Simon Schafer
+  - Abed AlFatah Mansour
+  - Kile P Mangan
+  - Tchelet Stern
+  - Polina Ofer
+  - Yam Stern
+  - Ana Paula Diniz Mendes
+  - Jose Djamus
+  - Lynne Randolph Moore
+  - Ritu Nayak
+  - Sapir Havusha Laufer
+  - Aidan Aicher
+  - Amanda Rhee
+  - Thomas L Wong
+  - Thao Nguyen
+  - Sara B Linker
+  - Beate Winner
+  - Beatriz C Freitas
+  - Eugenia Jones
+  - Irit Sagi
+  - Cedric Bardy
+  - Alexis Brice
+  - Juergen Winkler
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: NPJ Parkinson's disease
+  date: '2022-08-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35948563
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35929189
+  title: Brain aging, Alzheimer's disease, and the role of stem cells in primate comparative
+    studies.
+  authors:
+  - Isabel August
+  - Katerina Semendeferi
+  - Maria Carolina Marchetto
+  publisher: The Journal of comparative neurology
+  date: '2022-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35929189
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35880023
+  title: Methods for culturing adult CNS neurons reveal a CNS conditioning effect.
+  authors:
+  - Erna A van Niekerk
+  - Riki Kawaguchi
+  - Camila Marques de Freria
+  - Kimberly Groeniger
+  - Maria C Marchetto
+  - Sebastian Dupraz
+  - Frank Bradke
+  - Daniel H Geschwind
+  - Fred H Gage
+  - Mark H Tuszynski
+  publisher: Cell reports methods
+  date: '2022-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35880023
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35313707
+  title: Generation of inflammation-responsive astrocytes from glial progenitors derived
+    from human pluripotent stem cells.
+  authors:
+  - Renata Santos
+  - Arianna Mei
+  - Maria C Marchetto
+  publisher: STAR protocols
+  date: '2022-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35313707
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35063127
+  title: 'Reaching into the toolbox: Stem cell models to study neuropsychiatric disorders.'
+  authors:
+  - Jack T Whiteley
+  - Sarah Fernandes
+  - Amandeep Sharma
+  - Ana Paula D Mendes
+  - Vipula Racha
+  - Simone K Benassi
+  - Maria C Marchetto
+  publisher: Stem cell reports
+  date: '2022-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35063127
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34692694
+  title: Unraveling Human Brain Development and Evolution Using Organoid Models.
+  authors:
+  - Sarah Fernandes
+  - Davis Klein
+  - Maria C Marchetto
+  publisher: Frontiers in cell and developmental biology
+  date: '2021-10-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34692694
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33667413
+  title: Altered Neuronal Support and Inflammatory Response in Bipolar Disorder Patient-Derived
+    Astrocytes.
+  authors:
+  - Krishna C Vadodaria
+  - Ana P D Mendes
+  - Arianna Mei
+  - Vipula Racha
+  - Galina Erikson
+  - Maxim N Shokhirev
+  - Ruth Oefner
+  - Kelly J Heard
+  - Michael J McCarthy
+  - Lisa Eyler
+  - John R Kelsoe
+  - Renata Santos
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Stem cell reports
+  date: '2021-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33667413
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33398088
+  title: Deficient LEF1 expression is associated with lithium resistance and hyperexcitability
+    in neurons derived from bipolar disorder patients.
+  authors:
+  - Renata Santos
+  - Sara B Linker
+  - Shani Stern
+  - Ana P D Mendes
+  - Maxim N Shokhirev
+  - Galina Erikson
+  - Lynne Randolph-Moore
+  - Vipula Racha
+  - Yeni Kim
+  - John R Kelsoe
+  - Anne G Bang
+  - M Alda
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Molecular psychiatry
+  date: '2021-01-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33398088
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33205055
+  title: Modeling Human Cytomegalovirus-Induced Microcephaly in Human iPSC-Derived
+    Brain Organoids.
+  authors:
+  - Guoqiang Sun
+  - Flavia Chiuppesi
+  - Xianwei Chen
+  - Cheng Wang
+  - E Tian
+  - Jenny Nguyen
+  - Mindy Kha
+  - Daniel Trinh
+  - Hannah Zhang
+  - Maria C Marchetto
+  - Hongjun Song
+  - Guo-Li Ming
+  - Fred H Gage
+  - Don J Diamond
+  - Felix Wussow
+  - Yanhong Shi
+  publisher: Cell reports. Medicine
+  date: '2020-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33205055
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32839513
+  title: Inositol monophosphatase 1 (IMPA1) mutation in intellectual disability patients
+    impairs neurogenesis but not gliogenesis.
+  authors:
+  - Thalita Figueiredo
+  - Ana P D Mendes
+  - Danielle P Moreira
+  - Ernesto Goulart
+  - Danyllo Oliveira
+  - Gerson S Kobayashi
+  - Shani Stern
+  - Fernando Kok
+  - Maria C Marchetto
+  - Renata Santos
+  - Fred H Gage
+  - Mayana Zatz
+  publisher: Molecular psychiatry
+  date: '2020-08-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32839513
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32591005
+  title: IGF-1 treatment causes unique transcriptional response in neurons from individuals
+    with idiopathic autism.
+  authors:
+  - Sara B Linker
+  - Ana P D Mendes
+  - Maria C Marchetto
+  publisher: Molecular autism
+  date: '2020-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32591005
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32578148
+  title: Modeling Inflammation on Neurodevelopmental Disorders Using Pluripotent Stem
+    Cells.
+  authors:
+  - Beatriz C Freitas
+  - "Patricia C B Beltr\xE3o-Braga"
+  - Maria Carolina Marchetto
+  publisher: Advances in neurobiology
+  date: '2020-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32578148
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32312822
+  title: Loss of the neural-specific BAF subunit ACTL6B relieves repression of early
+    response genes and causes recessive autism.
+  authors:
+  - Wendy Wenderski
+  - Lu Wang
+  - Andrey Krokhotin
+  - Jessica J Walsh
+  - Hongjie Li
+  - Hirotaka Shoji
+  - Shereen Ghosh
+  - Renee D George
+  - Erik L Miller
+  - Laura Elias
+  - Mark A Gillespie
+  - Esther Y Son
+  - Brett T Staahl
+  - Seung Tae Baek
+  - Valentina Stanley
+  - Cynthia Moncada
+  - Zohar Shipony
+  - Sara B Linker
+  - Maria C N Marchetto
+  - Fred H Gage
+  - Dillon Chen
+  - Tipu Sultan
+  - Maha S Zaki
+  - Jeffrey A Ranish
+  - Tsuyoshi Miyakawa
+  - Liqun Luo
+  - Robert C Malenka
+  - Gerald R Crabtree
+  - Joseph G Gleeson
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2020-04-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32312822
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32278494
+  title: A Physiological Instability Displayed in Hippocampal Neurons Derived From
+    Lithium-Nonresponsive Bipolar Disorder Patients.
+  authors:
+  - Shani Stern
+  - Anindita Sarkar
+  - Dekel Galor
+  - Tchelet Stern
+  - Arianna Mei
+  - Yam Stern
+  - Ana P D Mendes
+  - Lynne Randolph-Moore
+  - Guy Rouleau
+  - Anne G Bang
+  - Renata Santos
+  - Martin Alda
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Biological psychiatry
+  date: '2020-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32278494
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32041882
+  title: Synaptotagmin-7 is a key factor for bipolar-like behavioral abnormalities
+    in mice.
+  authors:
+  - Wei Shen
+  - Qiu-Wen Wang
+  - Yao-Nan Liu
+  - Maria C Marchetto
+  - Sara Linker
+  - Si-Yao Lu
+  - Yun Chen
+  - Chuihong Liu
+  - Chongye Guo
+  - Zhikai Xing
+  - Wei Shi
+  - John R Kelsoe
+  - Martin Alda
+  - Hongwei Wang
+  - Yi Zhong
+  - Sen-Fang Sui
+  - Mei Zhao
+  - Yiming Yang
+  - Shuangli Mi
+  - Liping Cao
+  - Fred H Gage
+  - Jun Yao
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2020-02-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32041882
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32015721
+  title: Prediction of Response to Drug Therapy in Psychiatric Disorders.
+  authors:
+  - Shani Stern
+  - Sara Linker
+  - Krishna C Vadodaria
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Focus (American Psychiatric Publishing)
+  date: '2019-07-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32015721
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32004479
+  title: Increased Neural Progenitor Proliferation in a hiPSC Model of Autism Induces
+    Replication Stress-Associated Genome Instability.
+  authors:
+  - Meiyan Wang
+  - Pei-Chi Wei
+  - Christina K Lim
+  - Iryna S Gallina
+  - Sara Marshall
+  - Maria C Marchetto
+  - Frederick W Alt
+  - Fred H Gage
+  publisher: Cell stem cell
+  date: '2020-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32004479
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31732108
+  title: Mechanisms Underlying the Hyperexcitability of CA3 and Dentate Gyrus Hippocampal
+    Neurons Derived From Patients With Bipolar Disorder.
+  authors:
+  - Shani Stern
+  - Anindita Sarkar
+  - Tchelet Stern
+  - Arianna Mei
+  - Ana P D Mendes
+  - Yam Stern
+  - Gabriela Goldberg
+  - Dekel Galor
+  - Thao Nguyen
+  - Lynne Randolph-Moore
+  - Yongsung Kim
+  - Guy Rouleau
+  - Anne Bang
+  - Martin Alda
+  - Renata Santos
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Biological psychiatry
+  date: '2019-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31732108
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31474529
+  title: Dynamical Electrical Complexity Is Reduced during Neuronal Differentiation
+    in Autism Spectrum Disorder.
+  authors:
+  - Debha N Amatya
+  - Sara B Linker
+  - Ana P D Mendes
+  - Renata Santos
+  - Galina Erikson
+  - Maxim N Shokhirev
+  - Yuansheng Zhou
+  - Tatyana Sharpee
+  - Fred H Gage
+  - Maria C Marchetto
+  - Yeni Kim
+  publisher: Stem cell reports
+  date: '2019-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31474529
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31350261
+  title: An Epilepsy-Associated KCNT1 Mutation Enhances Excitability of Human iPSC-Derived
+    Neurons by Increasing Slack K
+  authors:
+  - Imran H Quraishi
+  - Shani Stern
+  - Kile P Mangan
+  - Yalan Zhang
+  - Syed R Ali
+  - Michael R Mercier
+  - Maria C Marchetto
+  - Michael J McLachlan
+  - Eugenia M Jones
+  - Fred H Gage
+  - Leonard K Kaczmarek
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2019-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31350261
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30903001
+  title: Altered serotonergic circuitry in SSRI-resistant major depressive disorder
+    patient-derived neurons.
+  authors:
+  - Krishna C Vadodaria
+  - Yuan Ji
+  - Michelle Skime
+  - Apua C Paquola
+  - Timothy Nelson
+  - Daniel Hall-Flavin
+  - Kelly J Heard
+  - Callie Fredlender
+  - Yalin Deng
+  - James Elkins
+  - Komal Dani
+  - Amy T Le
+  - Maria C Marchetto
+  - Richard Weinshilboum
+  - Fred H Gage
+  publisher: Molecular psychiatry
+  date: '2019-03-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30903001
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30730291
+  title: Species-specific maturation profiles of human, chimpanzee and bonobo neural
+    cells.
+  authors:
+  - Maria C Marchetto
+  - Branka Hrvoj-Mihic
+  - Bilal E Kerman
+  - Diana X Yu
+  - Krishna C Vadodaria
+  - Sara B Linker
+  - "I\xF1igo Narvaiza"
+  - Renata Santos
+  - Ahmet M Denli
+  - Ana Pd Mendes
+  - Ruth Oefner
+  - Jonathan Cook
+  - Lauren McHenry
+  - Jaeson M Grasmick
+  - Kelly Heard
+  - Callie Fredlender
+  - Lynne Randolph-Moore
+  - Rijul Kshirsagar
+  - Rea Xenitopoulos
+  - Grace Chou
+  - Nasun Hah
+  - Alysson R Muotri
+  - Krishnan Padmanabhan
+  - Katerina Semendeferi
+  - Fred H Gage
+  publisher: eLife
+  date: '2019-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30730291
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30700803
+  title: Serotonin-induced hyperactivity in SSRI-resistant major depressive disorder
+    patient-derived neurons.
+  authors:
+  - Krishna C Vadodaria
+  - Yuan Ji
+  - Michelle Skime
+  - Apua Paquola
+  - Timothy Nelson
+  - Daniel Hall-Flavin
+  - Callie Fredlender
+  - Kelly J Heard
+  - Yalin Deng
+  - Amy T Le
+  - Sonia Dave
+  - Lianna Fung
+  - Xinyi Li
+  - Maria C Marchetto
+  - Richard Weinshilboum
+  - Fred H Gage
+  publisher: Molecular psychiatry
+  date: '2019-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30700803
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30619789
+  title: Modeling Inflammation in Autism Spectrum Disorders Using Stem Cells.
+  authors:
+  - Beatriz C Freitas
+  - Arianna Mei
+  - Ana Paula D Mendes
+  - "Patricia C B Beltr\xE3o-Braga"
+  - Maria Carolina Marchetto
+  publisher: Frontiers in pediatrics
+  date: '2018-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30619789
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30617258
+  title: Pathological priming causes developmental gene network heterochronicity in
+    autistic subject-derived neurons.
+  authors:
+  - Simon T Schafer
+  - Apua C M Paquola
+  - Shani Stern
+  - David Gosselin
+  - Manching Ku
+  - Monique Pena
+  - Thomas J M Kuret
+  - Marvin Liyanage
+  - Abed AlFatah Mansour
+  - Baptiste N Jaeger
+  - Maria C Marchetto
+  - Christopher K Glass
+  - Jerome Mertens
+  - Fred H Gage
+  publisher: Nature neuroscience
+  date: '2019-01-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30617258
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30585734
+  title: Mitochondria, Metabolism, and Redox Mechanisms in Psychiatric Disorders.
+  authors:
+  - Yeni Kim
+  - Krishna C Vadodaria
+  - Zsolt Lenkei
+  - Tadafumi Kato
+  - Fred H Gage
+  - Maria C Marchetto
+  - Renata Santos
+  publisher: Antioxidants & redox signaling
+  date: '2019-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30585734
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29794033
+  title: Prediction of response to drug therapy in psychiatric disorders.
+  authors:
+  - Shani Stern
+  - Sara Linker
+  - Krishna C Vadodaria
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Open biology
+  date: '2018-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29794033
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29727680
+  title: "Efficient Generation of CA3 Neurons from Human Pluripotent Stem Cells Enables\
+    \ Modeling of Hippocampal Connectivity In\_Vitro."
+  authors:
+  - Anindita Sarkar
+  - Arianna Mei
+  - Apua C M Paquola
+  - Shani Stern
+  - Cedric Bardy
+  - Jason R Klug
+  - Stacy Kim
+  - Neda Neshat
+  - Hyung Joon Kim
+  - Manching Ku
+  - Maxim N Shokhirev
+  - David H Adamowicz
+  - Maria C Marchetto
+  - Roberto Jappelli
+  - Jennifer A Erwin
+  - Krishnan Padmanabhan
+  - Matthew Shtrahman
+  - Xin Jin
+  - Fred H Gage
+  publisher: Cell stem cell
+  date: '2018-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29727680
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29425968
+  title: Characterization of calcium signals in human induced pluripotent stem cell-derived
+    dentate gyrus neuronal progenitors and mature neurons, stably expressing an advanced
+    calcium indicator protein.
+  authors:
+  - "Gerg\u0151 V\u0151f\xE9ly"
+  - "T\xFCnde Berecz"
+  - "Eszter Szab\xF3"
+  - "Korn\xE9lia Szeb\xE9nyi"
+  - Edit Hathy
+  - "Tam\xE1s I Orb\xE1n"
+  - "Bal\xE1zs Sarkadi"
+  - "L\xE1szl\xF3 Homolya"
+  - Maria C Marchetto
+  - "J\xE1nos M R\xE9thelyi"
+  - "\xC1gota Ap\xE1ti"
+  publisher: Molecular and cellular neurosciences
+  date: '2018-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29425968
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29301565
+  title: 'Modeling psychiatric disorders using patient stem cell-derived neurons:
+    a way forward.'
+  authors:
+  - Krishna C Vadodaria
+  - Debha N Amatya
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Genome medicine
+  date: '2018-01-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29301565
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28812143
+  title: 'Serotonin in psychiatry: in vitro disease modeling using patient-derived
+    neurons.'
+  authors:
+  - Krishna C Vadodaria
+  - Shani Stern
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Cell and tissue research
+  date: '2017-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28812143
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28800766
+  title: Examining non-LTR retrotransposons in the context of the evolving primate
+    brain.
+  authors:
+  - Sara B Linker
+  - Maria C Marchetto
+  - "I\xF1igo Narvaiza"
+  - Ahmet M Denli
+  - Fred H Gage
+  publisher: BMC biology
+  date: '2017-08-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28800766
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28630288
+  title: Intact piRNA pathway prevents L1 mobilization in male meiosis.
+  authors:
+  - Simon J Newkirk
+  - Suman Lee
+  - Fiorella C Grandi
+  - Valeriya Gaysinskaya
+  - James M Rosser
+  - Nicole Vanden Berg
+  - Cathryn A Hogarth
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Michael D Griswold
+  - Ping Ye
+  - Alex Bortvin
+  - Fred H Gage
+  - Jef D Boeke
+  - Wenfeng An
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2017-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28630288
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28591655
+  title: Differentiation of Inflammation-Responsive Astrocytes from Glial Progenitors
+    Generated from Human Induced Pluripotent Stem Cells.
+  authors:
+  - Renata Santos
+  - Krishna C Vadodaria
+  - Baptiste N Jaeger
+  - Arianna Mei
+  - Sabrina Lefcochilos-Fogelquist
+  - Ana P D Mendes
+  - Galina Erikson
+  - Maxim Shokhirev
+  - Lynne Randolph-Moore
+  - Callie Fredlender
+  - Sonia Dave
+  - Ruth Oefner
+  - Conor Fitzpatrick
+  - Monique Pena
+  - Jerika J Barron
+  - Manching Ku
+  - Ahmet M Denli
+  - Bilal E Kerman
+  - Patrick Charnay
+  - John R Kelsoe
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Stem cell reports
+  date: '2017-06-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28591655
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28512238
+  title: 'Corrigendum: Evolution of a transcriptional regulator from a transmembrane
+    nucleoporin.'
+  authors:
+  - Tobias M Franks
+  - Chris Benner
+  - "I\xF1igo Narvaiza"
+  - Maria C N Marchetto
+  - Janet M Young
+  - Harmit S Malik
+  - Fred H Gage
+  - Martin W Hetzer
+  publisher: Genes & development
+  date: '2017-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28512238
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28261061
+  title: 'Molecular Mechanisms of Bipolar Disorder: Progress Made and Future Challenges.'
+  authors:
+  - Yeni Kim
+  - Renata Santos
+  - Fred H Gage
+  - Maria C Marchetto
+  publisher: Frontiers in cellular neuroscience
+  date: '2017-02-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28261061
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28245871
+  title: Conserved expression of transposon-derived non-coding transcripts in primate
+    stem cells.
+  authors:
+  - LeeAnn Ramsay
+  - Maria C Marchetto
+  - Maxime Caron
+  - Shu-Huang Chen
+  - Stephan Busche
+  - Tony Kwan
+  - Tomi Pastinen
+  - Fred H Gage
+  - Guillaume Bourque
+  publisher: BMC genomics
+  date: '2017-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28245871
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28242870
+  title: Neurons derived from patients with bipolar disorder divide into intrinsically
+    different sub-populations of neurons, predicting the patients' responsiveness
+    to lithium.
+  authors:
+  - S Stern
+  - R Santos
+  - M C Marchetto
+  - A P D Mendes
+  - G A Rouleau
+  - S Biesmans
+  - Q-W Wang
+  - J Yao
+  - P Charnay
+  - A G Bang
+  - M Alda
+  - F H Gage
+  publisher: Molecular psychiatry
+  date: '2017-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28242870
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27716980
+  title: 'Generating human serotonergic neurons in vitro: Methodological advances.'
+  authors:
+  - Krishna C Vadodaria
+  - Maria C Marchetto
+  - Jerome Mertens
+  - Fred H Gage
+  publisher: 'BioEssays : news and reviews in molecular, cellular and developmental
+    biology'
+  date: '2016-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27716980
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27509850
+  title: A human neurodevelopmental model for Williams syndrome.
+  authors:
+  - Thanathom Chailangkarn
+  - Cleber A Trujillo
+  - Beatriz C Freitas
+  - Branka Hrvoj-Mihic
+  - Roberto H Herai
+  - Diana X Yu
+  - Timothy T Brown
+  - Maria C Marchetto
+  - Cedric Bardy
+  - Lauren McHenry
+  - Lisa Stefanacci
+  - "Anna J\xE4rvinen"
+  - Yvonne M Searcy
+  - Michelle DeWitt
+  - Wenny Wong
+  - Philip Lai
+  - M Colin Ard
+  - Kari L Hanson
+  - Sarah Romero
+  - Bob Jacobs
+  - Anders M Dale
+  - Li Dai
+  - Julie R Korenberg
+  - Fred H Gage
+  - Ursula Bellugi
+  - Eric Halgren
+  - Katerina Semendeferi
+  - Alysson R Muotri
+  publisher: Nature
+  date: '2016-08-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27509850
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27487209
+  title: Emergence of a Homo sapiens-specific gene family and chromosome 16p11.2 CNV
+    susceptibility.
+  authors:
+  - Xander Nuttle
+  - Giuliana Giannuzzi
+  - Michael H Duyzend
+  - Joshua G Schraiber
+  - "I\xF1igo Narvaiza"
+  - Peter H Sudmant
+  - Osnat Penn
+  - Giorgia Chiatante
+  - Maika Malig
+  - John Huddleston
+  - Chris Benner
+  - Francesca Camponeschi
+  - Simone Ciofi-Baffoni
+  - Holly A F Stessman
+  - Maria C N Marchetto
+  - Laura Denman
+  - Lana Harshman
+  - Carl Baker
+  - Archana Raja
+  - Kelsi Penewit
+  - Nicolette Janke
+  - W Joyce Tang
+  - Mario Ventura
+  - Lucia Banci
+  - Francesca Antonacci
+  - Joshua M Akey
+  - Chris T Amemiya
+  - Fred H Gage
+  - Alexandre Reymond
+  - Evan E Eichler
+  publisher: Nature
+  date: '2016-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27487209
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27378147
+  title: Altered proliferation and networks in neural cells derived from idiopathic
+    autistic individuals.
+  authors:
+  - Maria C Marchetto
+  - Haim Belinson
+  - Yuan Tian
+  - Beatriz C Freitas
+  - Chen Fu
+  - Krishna Vadodaria
+  - Patricia Beltrao-Braga
+  - Cleber A Trujillo
+  - Ana P D Mendes
+  - Krishnan Padmanabhan
+  - Yanelli Nunez
+  - Jing Ou
+  - Himanish Ghosh
+  - Rebecca Wright
+  - Kristen Brennand
+  - Karen Pierce
+  - Lawrence Eichenfield
+  - Tiziano Pramparo
+  - Lisa Eyler
+  - Cynthia C Barnes
+  - Eric Courchesne
+  - Daniel H Geschwind
+  - Fred H Gage
+  - Anthony Wynshaw-Boris
+  - Alysson R Muotri
+  publisher: Molecular psychiatry
+  date: '2016-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27378147
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27198230
+  title: Evolution of a transcriptional regulator from a transmembrane nucleoporin.
+  authors:
+  - Tobias M Franks
+  - Chris Benner
+  - "I\xF1igo Narvaiza"
+  - Maria C N Marchetto
+  - Janet M Young
+  - Harmit S Malik
+  - Fred H Gage
+  - Martin W Hetzer
+  publisher: Genes & development
+  date: '2016-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27198230
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27194476
+  title: Evaluating cell reprogramming, differentiation and conversion technologies
+    in neuroscience.
+  authors:
+  - Jerome Mertens
+  - Maria C Marchetto
+  - Cedric Bardy
+  - Fred H Gage
+  publisher: Nature reviews. Neuroscience
+  date: '2016-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27194476
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27049876
+  title: 2D and 3D Stem Cell Models of Primate Cortical Development Identify Species-Specific
+    Differences in Progenitor Behavior Contributing to Brain Size.
+  authors:
+  - Tomoki Otani
+  - Maria C Marchetto
+  - Fred H Gage
+  - Benjamin D Simons
+  - Frederick J Livesey
+  publisher: Cell stem cell
+  date: '2016-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27049876
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26733678
+  title: KCC2 rescues functional deficits in human neurons derived from patients with
+    Rett syndrome.
+  authors:
+  - Xin Tang
+  - Julie Kim
+  - Li Zhou
+  - Eric Wengert
+  - Lei Zhang
+  - Zheng Wu
+  - Cassiano Carromeu
+  - Alysson R Muotri
+  - Maria C N Marchetto
+  - Fred H Gage
+  - Gong Chen
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-01-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26733678
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26723567
+  title: 'Synaptic activity: An emerging player in schizophrenia.'
+  authors:
+  - Anindita Sarkar
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Brain research
+  date: '2015-12-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26723567
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26678308
+  title: The different moods of human serotonergic neurons.
+  authors:
+  - K C Vadodaria
+  - J Mertens
+  - A Paquola
+  - C Bardy
+  - X Li
+  - R Jappelli
+  - L Fung
+  - M C Marchetto
+  - M Hamm
+  - M Gorris
+  - P Koch
+  - F H Gage
+  publisher: Molecular psychiatry
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26678308
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26610635
+  title: Creating Patient-Specific Neural Cells for the In Vitro Study of Brain Disorders.
+  authors:
+  - Kristen J Brennand
+  - M Carol Marchetto
+  - Nissim Benvenisty
+  - "Oliver Br\xFCstle"
+  - Allison Ebert
+  - Juan Carlos Izpisua Belmonte
+  - Ajamete Kaykas
+  - Madeline A Lancaster
+  - Frederick J Livesey
+  - Michael J McConnell
+  - Ronald D McKay
+  - Eric M Morrow
+  - Alysson R Muotri
+  - David M Panchision
+  - Lee L Rubin
+  - Akira Sawa
+  - Frank Soldner
+  - Hongjun Song
+  - Lorenz Studer
+  - Sally Temple
+  - Flora M Vaccarino
+  - Jun Wu
+  - Pierre Vanderhaeghen
+  - Fred H Gage
+  - Rudolf Jaenisch
+  publisher: Stem cell reports
+  date: '2015-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26610635
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26605530
+  title: 'Erratum: Differential responses to lithium in hyperexcitable neurons from
+    patients with bipolar disorder.'
+  authors:
+  - Jerome Mertens
+  - Qiu-Wen Wang
+  - Yongsung Kim
+  - Diana X Yu
+  - Son Pham
+  - Bo Yang
+  - Yi Zheng
+  - Kenneth E Diffenderfer
+  - Jian Zhang
+  - Sheila Soltani
+  - Tameji Eames
+  - Simon T Schafer
+  - Leah Boyer
+  - Maria C Marchetto
+  - John I Nurnberger
+  - Joseph R Calabrese
+  - Ketil J Oedegaard
+  - Michael J McCarthy
+  - Peter P Zandi
+  - Martin Alda
+  - Caroline M Nievergelt
+  - Shuangli Mi
+  - Kristen J Brennand
+  - John R Kelsoe
+  - Fred H Gage
+  - Jun Yao
+  publisher: Nature
+  date: '2015-11-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26605530
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26524527
+  title: Differential responses to lithium in hyperexcitable neurons from patients
+    with bipolar disorder.
+  authors:
+  - Jerome Mertens
+  - Qiu-Wen Wang
+  - Yongsung Kim
+  - Diana X Yu
+  - Son Pham
+  - Bo Yang
+  - Yi Zheng
+  - Kenneth E Diffenderfer
+  - Jian Zhang
+  - Sheila Soltani
+  - Tameji Eames
+  - Simon T Schafer
+  - Leah Boyer
+  - Maria C Marchetto
+  - John I Nurnberger
+  - Joseph R Calabrese
+  - "Ketil J \xD8degaard"
+  - Michael J McCarthy
+  - Peter P Zandi
+  - Martin Alda
+  - Caroline M Nievergelt
+  - Shuangli Mi
+  - Kristen J Brennand
+  - John R Kelsoe
+  - Fred H Gage
+  - Jun Yao
+  publisher: Nature
+  date: '2015-10-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26524527
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26503761
+  title: Generation of functional human serotonergic neurons from fibroblasts.
+  authors:
+  - K C Vadodaria
+  - J Mertens
+  - A Paquola
+  - C Bardy
+  - X Li
+  - R Jappelli
+  - L Fung
+  - M C Marchetto
+  - M Hamm
+  - M Gorris
+  - P Koch
+  - F H Gage
+  publisher: Molecular psychiatry
+  date: '2015-10-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26503761
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26496605
+  title: Primate-specific ORF0 contributes to retrotransposon-mediated diversity.
+  authors:
+  - Ahmet M Denli
+  - "I\xF1igo Narvaiza"
+  - Bilal E Kerman
+  - Monique Pena
+  - Christopher Benner
+  - Maria C N Marchetto
+  - Jolene K Diedrich
+  - Aaron Aslanian
+  - Jiao Ma
+  - James J Moresco
+  - Lynne Moore
+  - Tony Hunter
+  - Alan Saghatelian
+  - Fred H Gage
+  publisher: Cell
+  date: '2015-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26496605
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26365491
+  title: Enhancer divergence and cis-regulatory evolution in the human and chimp neural
+    crest.
+  authors:
+  - Sara L Prescott
+  - Rajini Srinivasan
+  - Maria Carolina Marchetto
+  - Irina Grishina
+  - "I\xF1igo Narvaiza"
+  - Licia Selleri
+  - Fred H Gage
+  - Tomek Swigut
+  - Joanna Wysocka
+  publisher: Cell
+  date: '2015-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26365491
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25385366
+  title: Modeling non-syndromic autism and the impact of TRPC6 disruption in human
+    neurons.
+  authors:
+  - K Griesi-Oliveira
+  - A Acab
+  - A R Gupta
+  - D Y Sunaga
+  - T Chailangkarn
+  - X Nicol
+  - Y Nunez
+  - M F Walker
+  - J D Murdoch
+  - S J Sanders
+  - T V Fernandez
+  - W Ji
+  - R P Lifton
+  - E Vadasz
+  - A Dietrich
+  - D Pradhan
+  - H Song
+  - G-L Ming
+  - X Gu
+  - G Haddad
+  - M C N Marchetto
+  - N Spitzer
+  - M R Passos-Bueno
+  - M W State
+  - A R Muotri
+  publisher: Molecular psychiatry
+  date: '2014-11-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25385366
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25009691
+  title: 'Your brain under the microscope: the promise of stem cells.'
+  authors:
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: 'Cerebrum : the Dana forum on brain science'
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25009691
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25005482
+  title: Mobile DNA elements in the generation of diversity and complexity in the
+    brain.
+  authors:
+  - Jennifer A Erwin
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Nature reviews. Neuroscience
+  date: '2014-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25005482
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24991955
+  title: A quantitative framework to evaluate modeling of cortical development by
+    neural stem cells.
+  authors:
+  - Jason L Stein
+  - Luis de la Torre-Ubieta
+  - Yuan Tian
+  - Neelroop N Parikshak
+  - "Israel A Hern\xE1ndez"
+  - Maria C Marchetto
+  - Dylan K Baker
+  - Daning Lu
+  - Cassidy R Hinman
+  - Jennifer K Lowe
+  - Eric M Wexler
+  - Alysson R Muotri
+  - Fred H Gage
+  - Kenneth S Kosik
+  - Daniel H Geschwind
+  publisher: Neuron
+  date: '2014-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24991955
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24917496
+  title: How to make a hippocampal dentate gyrus granule neuron.
+  authors:
+  - Diana X Yu
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Development (Cambridge, England)
+  date: '2014-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24917496
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24821704
+  title: Human-induced pluripotent stem cells pave the road for a better understanding
+    of motor neuron disease.
+  authors:
+  - Beate Winner
+  - Maria C Marchetto
+  - "J\xFCrgen Winkler"
+  - Fred H Gage
+  publisher: Human molecular genetics
+  date: '2014-05-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24821704
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24672753
+  title: Modeling hippocampal neurogenesis using human pluripotent stem cells.
+  authors:
+  - Diana Xuan Yu
+  - Francesco Paolo Di Giorgio
+  - Jun Yao
+  - Maria Carolina Marchetto
+  - Kristen Brennand
+  - Rebecca Wright
+  - Arianna Mei
+  - Lauren McHenry
+  - David Lisuk
+  - Jaeson Michael Grasmick
+  - Pedro Silberman
+  - Giovanna Silberman
+  - Roberto Jappelli
+  - Fred H Gage
+  publisher: Stem cell reports
+  date: '2014-02-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24672753
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24381312
+  title: Gene dosage-dependent rescue of HSP neurite defects in SPG4 patients' neurons.
+  authors:
+  - Steven Havlicek
+  - Zacharias Kohl
+  - Himanshu K Mishra
+  - Iryna Prots
+  - Esther Eberhardt
+  - Naime Denguir
+  - Holger Wend
+  - "Sonja Pl\xF6tz"
+  - Leah Boyer
+  - Maria C N Marchetto
+  - Stefan Aigner
+  - Heinrich Sticht
+  - Teja W Groemer
+  - Ute Hehr
+  - Angelika Lampert
+  - "Ursula Schl\xF6tzer-Schrehardt"
+  - "J\xFCrgen Winkler"
+  - Fred H Gage
+  - Beate Winner
+  publisher: Human molecular genetics
+  date: '2013-12-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24381312
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24153179
+  title: Differential L1 regulation in pluripotent stem cells of humans and apes.
+  authors:
+  - Maria C N Marchetto
+  - "I\xF1igo Narvaiza"
+  - Ahmet M Denli
+  - Christopher Benner
+  - Thomas A Lazzarini
+  - Jason L Nathanson
+  - "Apu\xE3 C M Paquola"
+  - Keval N Desai
+  - Roberto H Herai
+  - Matthew D Weitzman
+  - Gene W Yeo
+  - Alysson R Muotri
+  - Fred H Gage
+  publisher: Nature
+  date: '2013-10-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24153179
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24041506
+  title: 'Novel tools, classic techniques: evolutionary studies using primate pluripotent
+    stem cells.'
+  authors:
+  - Branka Hrvoj-Mihic
+  - Maria C N Marchetto
+  - Fred H Gage
+  - Katerina Semendeferi
+  - Alysson R Muotri
+  publisher: Biological psychiatry
+  date: '2013-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24041506
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23759711
+  title: Astroglial cells regulate the developmental timeline of human neurons differentiated
+    from induced pluripotent stem cells.
+  authors:
+  - Xin Tang
+  - Li Zhou
+  - Alecia M Wagner
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Fred H Gage
+  - Gong Chen
+  publisher: Stem cell research
+  date: '2013-05-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23759711
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23746977
+  title: Therapeutic translation of iPSCs for treating neurological disease.
+  authors:
+  - Diana X Yu
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Cell stem cell
+  date: '2013-06-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23746977
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23740898
+  title: Response to comment on "Drug screening for ALS using patient-specific induced
+    pluripotent stem cells".
+  authors:
+  - Naohiro Egawa
+  - Shiho Kitaoka
+  - Kayoko Tsukita
+  - Motoko Naitoh
+  - Kazutoshi Takahashi
+  - Takuya Yamamoto
+  - Fumihiko Adachi
+  - Takayuki Kondo
+  - Keisuke Okita
+  - Isao Asaka
+  - Takashi Aoi
+  - Akira Watanabe
+  - Yasuhiro Yamada
+  - Asuka Morizane
+  - Jun Takahashi
+  - Takashi Ayaki
+  - Hidefumi Ito
+  - Katsuhiro Yoshikawa
+  - Satoko Yamawaki
+  - Shigehiko Suzuki
+  - Dai Watanabe
+  - Hiroyuki Hioki
+  - Takeshi Kaneko
+  - Kouki Makioka
+  - Koichi Okamoto
+  - Hiroshi Takuma
+  - Akira Tamaoka
+  - Kazuko Hasegawa
+  - Takashi Nonaka
+  - Masato Hasegawa
+  - Akihiro Kawata
+  - Minoru Yoshida
+  - Tatsutoshi Nakahata
+  - Ryosuke Takahashi
+  - Maria C N Marchetto
+  - Fred H Gage
+  - Shinya Yamanaka
+  - Haruhisa Inoue
+  publisher: Science translational medicine
+  date: '2013-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23740898
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23468646
+  title: Dynamic association of NUP98 with the human genome.
+  authors:
+  - Yun Liang
+  - Tobias M Franks
+  - Maria C Marchetto
+  - Fred H Gage
+  - Martin W Hetzer
+  publisher: PLoS genetics
+  date: '2013-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23468646
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23034453
+  title: 'Induced pluripotent stem cells: the new patient?'
+  authors:
+  - Milena Bellin
+  - Maria C Marchetto
+  - Fred H Gage
+  - Christine L Mummery
+  publisher: Nature reviews. Molecular cell biology
+  date: '2012-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23034453
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23010441
+  title: The role of DNA repair in the pluripotency and differentiation of human stem
+    cells.
+  authors:
+  - Clarissa Ribeiro Reily Rocha
+  - Leticia Koch Lerner
+  - Oswaldo Keith Okamoto
+  - Maria Carolina Marchetto
+  - Carlos Frederico Martins Menck
+  publisher: Mutation research
+  date: '2012-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23010441
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22855461
+  title: Drug screening for ALS using patient-specific induced pluripotent stem cells.
+  authors:
+  - Naohiro Egawa
+  - Shiho Kitaoka
+  - Kayoko Tsukita
+  - Motoko Naitoh
+  - Kazutoshi Takahashi
+  - Takuya Yamamoto
+  - Fumihiko Adachi
+  - Takayuki Kondo
+  - Keisuke Okita
+  - Isao Asaka
+  - Takashi Aoi
+  - Akira Watanabe
+  - Yasuhiro Yamada
+  - Asuka Morizane
+  - Jun Takahashi
+  - Takashi Ayaki
+  - Hidefumi Ito
+  - Katsuhiro Yoshikawa
+  - Satoko Yamawaki
+  - Shigehiko Suzuki
+  - Dai Watanabe
+  - Hiroyuki Hioki
+  - Takeshi Kaneko
+  - Kouki Makioka
+  - Koichi Okamoto
+  - Hiroshi Takuma
+  - Akira Tamaoka
+  - Kazuko Hasegawa
+  - Takashi Nonaka
+  - Masato Hasegawa
+  - Akihiro Kawata
+  - Minoru Yoshida
+  - Tatsutoshi Nakahata
+  - Ryosuke Takahashi
+  - Maria C N Marchetto
+  - Fred H Gage
+  - Shinya Yamanaka
+  - Haruhisa Inoue
+  publisher: Science translational medicine
+  date: '2012-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22855461
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22814375
+  title: Cord blood-derived neuronal cells by ectopic expression of Sox2 and c-Myc.
+  authors:
+  - Alessandra Giorgetti
+  - Maria C N Marchetto
+  - Mo Li
+  - Diana Yu
+  - Raffaella Fazzina
+  - Yangling Mu
+  - Antonio Adamo
+  - Ida Paramonov
+  - "Julio Casta\xF1o Cardoso"
+  - Montserrat Barragan Monasterio
+  - Cedric Bardy
+  - Riccardo Cassiani-Ingoni
+  - Guang-Hui Liu
+  - Fred H Gage
+  - Juan Carlos Izpisua Belmonte
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2012-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22814375
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22704498
+  title: 'Modeling brain disease in a dish: really?'
+  authors:
+  - Maria C Marchetto
+  - Fred H Gage
+  publisher: Cell stem cell
+  date: '2012-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22704498
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22159035
+  title: Ataxia telangiectasia mutated (ATM) modulates long interspersed element-1
+    (L1) retrotransposition in human neural stem cells.
+  authors:
+  - Nicole G Coufal
+  - "Jos\xE8 Luis Garcia-Perez"
+  - Grace E Peng
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Yangling Mu
+  - Christian T Carson
+  - Angela Macia
+  - John V Moran
+  - Fred H Gage
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2011-12-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22159035
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21828073
+  title: 'Induced pluripotent stem cells (iPSCs) and neurological disease modeling:
+    progress and promises.'
+  authors:
+  - Maria C Marchetto
+  - Kristen J Brennand
+  - Leah F Boyer
+  - Fred H Gage
+  publisher: Human molecular genetics
+  date: '2011-08-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21828073
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21685205
+  title: Downregulation of VAPB expression in motor neurons derived from induced pluripotent
+    stem cells of ALS8 patients.
+  authors:
+  - Miguel Mitne-Neto
+  - Marcela Machado-Costa
+  - Maria C N Marchetto
+  - Mario H Bengtson
+  - Claudio A Joazeiro
+  - Hiroshi Tsuda
+  - Hugo J Bellen
+  - Helga C A Silva
+  - Acary S B Oliveira
+  - Monize Lazar
+  - Alysson R Muotri
+  - Mayana Zatz
+  publisher: Human molecular genetics
+  date: '2011-06-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21685205
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21085180
+  title: L1 retrotransposition in neurons is modulated by MeCP2.
+  authors:
+  - Alysson R Muotri
+  - Maria C N Marchetto
+  - Nicole G Coufal
+  - Ruth Oefner
+  - Gene Yeo
+  - Kinichi Nakashima
+  - Fred H Gage
+  publisher: Nature
+  date: '2010-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21085180
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21074045
+  title: A model for neural development and treatment of Rett syndrome using human
+    induced pluripotent stem cells.
+  authors:
+  - Maria C N Marchetto
+  - Cassiano Carromeu
+  - Allan Acab
+  - Diana Yu
+  - Gene W Yeo
+  - Yangling Mu
+  - Gong Chen
+  - Fred H Gage
+  - Alysson R Muotri
+  publisher: Cell
+  date: '2010-11-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21074045
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20975758
+  title: Epigenetic choreographers of neurogenesis in the adult mammalian brain.
+  authors:
+  - Dengke K Ma
+  - Maria Carolina Marchetto
+  - Junjie U Guo
+  - Guo-li Ming
+  - Fred H Gage
+  - Hongjun Song
+  publisher: Nature neuroscience
+  date: '2010-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20975758
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20471112
+  title: 'LINE-1 retrotransposons: mediators of somatic variation in neuronal genomes?'
+  authors:
+  - Tatjana Singer
+  - Michael J McConnell
+  - Maria C N Marchetto
+  - Nicole G Coufal
+  - Fred H Gage
+  publisher: Trends in neurosciences
+  date: '2010-05-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20471112
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20418487
+  title: Pluripotent stem cells in neurodegenerative and neurodevelopmental diseases.
+  authors:
+  - Maria C N Marchetto
+  - Beate Winner
+  - Fred H Gage
+  publisher: Human molecular genetics
+  date: '2010-04-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20418487
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20303880
+  title: Mechanisms underlying inflammation in neurodegeneration.
+  authors:
+  - Christopher K Glass
+  - Kaoru Saijo
+  - Beate Winner
+  - Maria Carolina Marchetto
+  - Fred H Gage
+  publisher: Cell
+  date: '2010-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20303880
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19771587
+  title: Environmental influence on L1 retrotransposons in the adult hippocampus.
+  authors:
+  - Alysson R Muotri
+  - Chunmei Zhao
+  - Maria C N Marchetto
+  - Fred H Gage
+  publisher: Hippocampus
+  date: '2009-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19771587
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19763270
+  title: Transcriptional signature and memory retention of human-induced pluripotent
+    stem cells.
+  authors:
+  - Maria C N Marchetto
+  - Gene W Yeo
+  - Osamu Kainohana
+  - Martin Marsala
+  - Fred H Gage
+  - Alysson R Muotri
+  publisher: PloS one
+  date: '2009-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19763270
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19041781
+  title: Non-cell-autonomous effect of human SOD1 G37R astrocytes on motor neurons
+    derived from human embryonic stem cells.
+  authors:
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Yangling Mu
+  - Alan M Smith
+  - Gabriela G Cezar
+  - Fred H Gage
+  publisher: Cell stem cell
+  date: '2008-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19041781
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18685619
+  title: Identification of XP complementation groups by recombinant adenovirus carrying
+    DNA repair genes.
+  authors:
+  - Ricardo A Leite
+  - Maria C Marchetto
+  - Alysson R Muotri
+  - Dewton de Moraes Vasconcelos
+  - Zilda N Prado de Oliveira
+  - Maria C Rivitti Machado
+  - Carlos F Martins Menck
+  publisher: The Journal of investigative dermatology
+  date: '2008-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18685619
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18632700
+  title: Multiple layers of molecular controls modulate self-renewal and neuronal
+    lineage specification of embryonic stem cells.
+  authors:
+  - Gene W Yeo
+  - Nicole Coufal
+  - Stefan Aigner
+  - Beate Winner
+  - Jonathan A Scolnick
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Christian Carson
+  - Fred H Gage
+  publisher: Human molecular genetics
+  date: '2008-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18632700
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18042584
+  title: Exploring DNA damage responses in human cells with recombinant adenoviral
+    vectors.
+  authors:
+  - Melissa G Armelini
+  - Keronninn M Lima-Bessa
+  - Maria Carolina N Marchetto
+  - Alysson R Muotri
+  - "Vanessa Chigan\xE7as"
+  - Ricardo A Leite
+  - Helotonio Carvalho
+  - Carlos F M Menck
+  publisher: Human & experimental toxicology
+  date: '2007-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18042584
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:17911158
+  title: 'The necessary junk: new functions for transposable elements.'
+  authors:
+  - Alysson R Muotri
+  - Maria C N Marchetto
+  - Nicole G Coufal
+  - Fred H Gage
+  publisher: Human molecular genetics
+  date: '2007-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17911158
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:17468180
+  title: LINE-1 retrotransposition in human embryonic stem cells.
+  authors:
+  - Jose L Garcia-Perez
+  - Maria C N Marchetto
+  - Alysson R Muotri
+  - Nicole G Coufal
+  - Fred H Gage
+  - K Sue O'Shea
+  - John V Moran
+  publisher: Human molecular genetics
+  date: '2007-04-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17468180
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:16857285
+  title: Functional lentiviral vectors for xeroderma pigmentosum gene therapy.
+  authors:
+  - Maria C N Marchetto
+  - Ricardo G Correa
+  - Carlos F M Menck
+  - Alysson R Muotri
+  publisher: Journal of biotechnology
+  date: '2006-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16857285
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15959507
+  title: Somatic mosaicism in neuronal precursor cells mediated by L1 retrotransposition.
+  authors:
+  - Alysson R Muotri
+  - Vi T Chu
+  - Maria C N Marchetto
+  - Wei Deng
+  - John V Moran
+  - Fred H Gage
+  publisher: Nature
+  date: '2005-06-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15959507
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15650764
+  title: Restoring DNA repair capacity of cells from three distinct diseases by XPD
+    gene-recombinant adenovirus.
+  authors:
+  - Melissa Gava Armelini
+  - Alysson Renato Muotri
+  - Maria Carolina Nasser Marchetto
+  - Keronninn Moreno de Lima-Bessa
+  - Alain Sarasin
+  - Carlos Frederico Martins Menck
+  publisher: Cancer gene therapy
+  date: '2005-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15650764
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15598745
+  title: 'Gene transduction in skin cells: preventing cancer in xeroderma pigmentosum
+    mice.'
+  authors:
+  - Maria Carolina N Marchetto
+  - Alysson R Muotri
+  - Dennis K Burns
+  - Errol C Friedberg
+  - Carlos F M Menck
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2004-12-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15598745
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:12396616
+  title: Complementation of the DNA repair deficiency in human xeroderma pigmentosum
+    group a and C cells by recombinant adenovirus-mediated gene transfer.
+  authors:
+  - Alysson Renato Muotri
+  - Maria Carolina Nasser Marchetto
+  - Luiz Fernando Celidonio Zerbini
+  - Towia A Libermann
+  - Armando Morais Ventura
+  - Alain Sarasin
+  - Carlos Frederico Martins Menck
+  publisher: Human gene therapy
+  date: '2002-10-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12396616
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:12118289
+  title: An adenovirus vector containing the suicide gene thymidine kinase for a broad
+    application in cancer gene therapy.
+  authors:
+  - G S Magalhaes
+  - A R Muotri
+  - M C N Marchetto
+  - C F M Menck
+  - A M Ventura
+  publisher: Memorias do Instituto Oswaldo Cruz
+  date: '2002-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12118289
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:12082027
+  title: Low amounts of the DNA repair XPA protein are sufficient to recover UV-resistance.
+  authors:
+  - Alysson R Muotri
+  - Maria C N Marchetto
+  - Miriam F Suzuki
+  - Kayo Okazaki
+  - Claudimara F P Lotfi
+  - Gabriela Brumatti
+  - Gustavo P Amarante-Mendes
+  - Carlos F M Menck
+  publisher: Carcinogenesis
+  date: '2002-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12082027
+  term: Marchetto, MC
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.1093/nar/gkad1082
   title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
     \ genes\_and diseases across species"
