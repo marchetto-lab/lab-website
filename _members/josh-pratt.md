@@ -1,7 +1,8 @@
 ---
 name: Joshua Pratt
 image: images/photo.jpg
-role: Research Technician
+description: Research Assistant
+role: research assistant
 group: 
 links:
 ---
