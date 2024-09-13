@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Amandeep Sharma
 image: images/photo.jpg
-role: phd
-group: alum
+role: Research Associate?
+group: 
 links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Aman is a research associate in the lab working on the AUTS2 project.
