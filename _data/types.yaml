@@ -30,6 +30,10 @@ research assistant:
   icon: fa-solid fa-microscope
   description: Research Assistant
 
+lab manager:
+  icon: fa-solid fa-dna
+  description: Lab Manager and Research Assistant
+
 # general
 
 link:
