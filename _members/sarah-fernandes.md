@@ -1,7 +1,7 @@
 ---
 name: Sarah Fernandes
 image: images/photo.jpg
-description: phd student
+description: PhD student
 role: phd
 links:
   email: sfernandes@salk.edu
