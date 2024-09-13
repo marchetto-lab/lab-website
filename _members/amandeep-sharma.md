@@ -1,8 +1,8 @@
 ---
 name: Amandeep Sharma
 image: images/photo.jpg
-Description: Research Associate
-role: Research Associate?
+Description: Research Assistant
+role: research assistant
 group: 
 links:
 ---
