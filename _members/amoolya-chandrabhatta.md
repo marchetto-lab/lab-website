@@ -1,7 +1,8 @@
 ---
 name: Amoolya Chandrabhatta
 image: images/photo.jpg
-role: Undergraduate Researcher
+role: undergrad
+description: Undergraduate Researcher
 group: 
 links:
 ---
