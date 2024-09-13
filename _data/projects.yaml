@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: AUTS2
+  subtitle: The Role of AUTS2 in Neurodevelopment
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: in progress
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title: Seritonalyzation?
   subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: in progress
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Neoteny
+  subtitle: The Delayed Development of Human Brains as Compared to Non-Human Primates
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Human neurons are now to be characterized by a slower developmental trajectory than non-human primate neurons. We are interested in studying the regulatory mechanisms that set development rate across species.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
+    - publication
+
+- title: Microplastics and Organoids
+  subtitle: 
+  image: images/photo.jpg
+  link: https://github.com/
+  description: in progress
+  repo: greenelab/lab-website-template
+  tags:
+
+- title: Alzheimer's Disease Across Primate Species
+  subtitle: Impact of Amyloid Beta and Tau on Neurons Across Primate Species
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Using in vitro model systems, we add amyloid beta and tau proteins to in vitro cultures and investigate the way that they impact neuronal health and functioning.
+  repo: greenelab/lab-website-template
+  tags:
+    - publication
