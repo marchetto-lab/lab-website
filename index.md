@@ -29,6 +29,7 @@ Check out our recent publications here!
   link="research"
   title="Our Research"
   text=text
+  style="bare"
 %}
 
 {% capture text %}
