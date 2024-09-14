@@ -2,31 +2,25 @@
   subtitle: The Role of AUTS2 in Neurodevelopment
   image: images/photo.jpg
   description: in progress
-  repo: greenelab/lab-website-template
 
 - title: Seritonalyzation
   subtitle: 
   image: images/photo.jpg
   description: in progress
-  repo: greenelab/lab-website-template
   
 - title: Neoteny
   subtitle: The Delayed Development of Human Brains as Compared to Non-Human Primates
   image: images/neoteny_graph.png
   link: https://pubmed.ncbi.nlm.nih.gov/36228612/
   description: Human neurons are characterized by a slower developmental trajectory than non-human primate neurons. We are interested in studying the regulatory mechanisms that set development rate across species.
-  repo: greenelab/lab-website-template
-  tags:
 
 - title: Microplastics and Organoids
   subtitle: 
   image: images/photo.jpg
   description: in progress
-  repo: greenelab/lab-website-template
 
 - title: Alzheimer's Disease Across Primate Species
   subtitle: Impact of Amyloid Beta and Tau on Neurons Across Primate Species
   image: images/photo.jpg
   link: https://pubmed.ncbi.nlm.nih.gov/35929189/
   description: Using in vitro model systems, we add amyloid beta and tau proteins to in vitro cultures and investigate the way  they impact neuronal health and functioning.
-  repo: greenelab/lab-website-template
