@@ -19,7 +19,6 @@ Check out our recent publications here!
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
