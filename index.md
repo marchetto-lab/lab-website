@@ -79,3 +79,7 @@ Meet our lab and see photos from our recent gatherings!
   title="Our Team"
   text=text
 %}
+{%
+  include figure.html
+  image="images/picture1.jpg"
+%}
