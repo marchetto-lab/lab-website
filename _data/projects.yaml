@@ -1,14 +1,12 @@
 - title: AUTS2
   subtitle: The Role of AUTS2 in Neurodevelopment
   image: images/photo.jpg
-  link: 
   description: in progress
   repo: greenelab/lab-website-template
 
 - title: Seritonalyzation
   subtitle: 
   image: images/photo.jpg
-  link: 
   description: in progress
   repo: greenelab/lab-website-template
   
@@ -18,11 +16,11 @@
   link: https://pubmed.ncbi.nlm.nih.gov/36228612/
   description: Human neurons are characterized by a slower developmental trajectory than non-human primate neurons. We are interested in studying the regulatory mechanisms that set development rate across species.
   repo: greenelab/lab-website-template
+  tags:
 
 - title: Microplastics and Organoids
   subtitle: 
   image: images/photo.jpg
-  link: 
   description: in progress
   repo: greenelab/lab-website-template
 

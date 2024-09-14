@@ -1,10 +1,6 @@
 ---
 title: Lab Opening!
-image: images/lab_opening
-tags:
-  - biology
-  - medicine
-  - big data
+image: images/lab_opening.jpg
 ---
 
 The lab officially opened in the Anthropology Building!
