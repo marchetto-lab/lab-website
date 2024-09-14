@@ -1,6 +1,6 @@
 ---
 title: Lab Opening!
-image: 
+image: images/lab_opening
 tags:
   - biology
   - medicine
