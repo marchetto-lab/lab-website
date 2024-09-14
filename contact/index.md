@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="mcmarchetto@ucsd.edu"
+  link="mcmarchetto@ucsd.edu"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="email"
+  text="marchetto@salk.edu"
+  link="marchetto@salk.edu"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Social+Science+Research+Building/@32.8810707,-117.2405672,288m/data=!3m2!1e3!5s0x80dc06c1108ee56d:0xe4d745b5c56276f2!4m14!1m7!3m6!1s0x80dc06c4414caf4f:0xefb6aafc89913ea7!2sUniversity+of+California+San+Diego!8m2!3d32.881168!4d-117.2343605!16zL20vMDd2am0!3m5!1s0x80dc06c111311fd1:0xde91c40ce5892283!8m2!3d32.8807041!4d-117.2400766!16s%2Fg%2F12hll8_y_?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)"
 %}
 
 {% include section.html %}
@@ -37,7 +37,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
@@ -47,7 +46,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
