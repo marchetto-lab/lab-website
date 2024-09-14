@@ -25,7 +25,6 @@ Check out our recent publications here!
 
 {%
   include feature.html
-  image="images/tree_neurons_salk"
   link="research"
   title="Our Research"
   text=text
