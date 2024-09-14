@@ -9,8 +9,6 @@ nav:
 
 We use a combination of cellular, molecular and genetic tools to study neurodevelopment using in vitro models. 
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
