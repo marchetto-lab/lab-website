@@ -1,5 +1,5 @@
 
-# marchetto-labDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# marchetto-lab
 
 Visit **[marchetto-lab.github.io](https://marchetto-lab.github.io)** 🚀
 
