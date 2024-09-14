@@ -6,8 +6,8 @@
   repo: greenelab/lab-website-template
   tags:
 
-- title: Seritonalyzation?
-  subtitle: a subtitle
+- title: Seritonalyzation
+  subtitle: 
   image: images/photo.jpg
   link: 
   description: in progress
@@ -37,4 +37,3 @@
   description: Using in vitro model systems, we add amyloid beta and tau proteins to in vitro cultures and investigate the way that they impact neuronal health and functioning.
   repo: greenelab/lab-website-template
   tags:
-    - publication
