@@ -34,7 +34,7 @@ Check out our recent publications here!
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out the projects we have going on in the lab.
 
 {%
   include button.html
@@ -58,6 +58,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
+
+Meet our lab and see photos from our recent gatherings!
 
 {%
   include button.html
