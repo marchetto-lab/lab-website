@@ -41,7 +41,7 @@ Check out the projects we have going on in the lab.
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
-  image="images/tree_neurons_salk"
+  image="images/Screen Shot 2024-09-15 at 2.51.19 PM.png"
   flip=true
   style="bare"
 %}
