@@ -50,7 +50,7 @@ Check out the projects we have going on in the lab.
 
 {%
   include feature.html
-  image="images/2NHPO_BonoboDay51_Tbr2SatB2CTIP2_20X.jpg"
+  image="images/Image2NHPO_BonoboDay51_Tbr2SatB2CTIP2_20X32.jpg"
   link="projects"
   title="Our Projects"
   flip=true
