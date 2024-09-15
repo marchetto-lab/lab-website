@@ -41,6 +41,7 @@ Check out the projects we have going on in the lab.
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
+  image="images/tree_neurons_salk"
   flip=true
   style="bare"
 %}
@@ -74,12 +75,9 @@ Meet our lab and see photos from our recent gatherings!
 
 {%
   include feature.html
-  image="images/picture1.jpg"
+  image="images/picture_1.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
-{%
-  include figure.html
-  image="images/picture1.jpg"
-%}
+
