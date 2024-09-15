@@ -38,10 +38,10 @@ Check out the projects we have going on in the lab.
 
 {%
   include button.html
+  image="images/published_photo.png"
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
-  image="images/published_photo.jpg"
   flip=true
   style="bare"
 %}
